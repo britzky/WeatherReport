@@ -1,6 +1,6 @@
 //weather app that displays the High, Low, Forecast and Humidity based on the zipcode provided
 
-const apiKey = '6fadbeb6c30eaf65cb2fcfa221069b0d'
+// const apiKey = ''
 // function to get the location info based on zipcode
 const getLocation = async (zipcode) => {
     // variable to send request to get location data for given zipcode
